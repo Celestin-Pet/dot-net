@@ -1,0 +1,5 @@
+C:\Users\Violette\Desktop\csharp\project-backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Violette\Desktop\csharp\project-backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Violette\Desktop\csharp\project-backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Violette\Desktop\csharp\project-backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\Violette\Desktop\csharp\project-backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
